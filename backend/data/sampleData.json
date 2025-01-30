@@ -1,0 +1,19 @@
+{
+  "portfolio": [
+    {
+      "userId": "123456",
+      "assets": [
+        { "assetName": "Stock A", "quantity": 10, "value": 150, "allocation": 50 },
+        { "assetName": "Stock B", "quantity": 5, "value": 200, "allocation": 50 }
+      ],
+      "totalValue": 3500
+    }
+  ],
+  "strategies": [
+    { "name": "Strategy 1", "ROI": 12, "CAGR": 10, "drawdown": 5 },
+    { "name": "Strategy 2", "ROI": 15, "CAGR": 12, "drawdown": 6 }
+  ],
+  "marketUpdates": [
+    { "title": "Market News 1", "description": "Stock market update" }
+  ]
+}
