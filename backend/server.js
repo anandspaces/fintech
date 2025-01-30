@@ -1,6 +1,5 @@
 // server.js (Main Entry Point)
 import express from 'express';
-import mongoose from 'mongoose';
 import cors from 'cors';
 import dotenv from 'dotenv';
 import portfolioRoutes from './routes/portfolio.js';
